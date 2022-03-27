@@ -5,7 +5,7 @@
 ![](https://dcbadge.vercel.app/api/shield/821542308406362112)
 
 # 📊 My Stats
-[![my stats](https://github-readme-stats.vercel.app/api?username=Equinox404)](https://github.com/anuraghazra/github-readme-stats)
+[![my stats](https://github-readme-stats.vercel.app/api?username=noone-dev1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
